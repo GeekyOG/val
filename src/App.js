@@ -27,7 +27,7 @@ function App() {
           </>
         ) : (
           <>
-            <h1 className="text-3xl text-center">To my world class designer</h1>
+            <h1 className="text-3xl text-center">To my Sandie</h1>
             <Lottie animationData={lot1} loop={true} className="w-[200px]" />
             <h1 className="text-3xl text-center">Will you be my Valentine?</h1>
 
